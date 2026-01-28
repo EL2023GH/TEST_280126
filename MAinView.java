@@ -1,0 +1,2 @@
+public class MAinView {
+}
